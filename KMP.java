@@ -8,4 +8,5 @@ public int[] KMP_table(String s){
           --i;
       }
   }
+  return dp;
 }
